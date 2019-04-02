@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_the_first_number">Enter the first Number</string>
+</resources>
